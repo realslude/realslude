@@ -1,4 +1,4 @@
-- 👋 Hi, I’m slude
+- 👋 Hi, I’m slude 12
 - 👀 I’m interested in idk coding i guess
 - 🌱 I’m currently learning .lua and haxe
 - 📫 How to reach me discord slude#8530
