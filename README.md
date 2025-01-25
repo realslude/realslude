@@ -1,1 +1,1 @@
-vi pratar svenska har. sverige for livet
+Talk about low budget coding. Forcing others to do it? I'm outta here 
